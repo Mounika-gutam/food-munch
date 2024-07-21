@@ -1,0 +1,53 @@
+.salad-container-main{
+    background-color: #0a182e;
+    min-height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+.salad-heading{
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+}
+.salad-container-list{
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.salad-item{
+    background-color: #ffffff;
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.salad-img{
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+}
+.salad-name{
+    color: #0a182e;
+    font-family: "Roboto";
+    font-size: 22px;
+}
+.salad-price{
+    color: #0a182e;
+    font-size: 25px;
+    font-family: "Roboto";
+}
+span{
+    color: #f10c0c;
+    font-size: 25px;
+    font-family: "Roboto";
+}

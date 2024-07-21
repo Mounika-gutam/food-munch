@@ -1,0 +1,31 @@
+.footer-bg-container{
+    background-color: #3a588a;
+    height: auto;
+    width: 100vw;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.footer-image{
+    height: 80px;
+    width: 80px;
+    border-radius: 70px;
+    margin-top: 20px;
+}
+.footer-name{
+    color: #f53b11;
+    font-size: 22px;
+    font-family: 'Gill Sans';
+    padding: 10px;
+}
+.icon{
+    height: 30px;
+    width: 30px;
+    margin-left: 15px;
+}
+.website{
+    padding: 10px;
+}
